@@ -1,4 +1,4 @@
 # requirements.txt (example)
-django==2.2.0
+django==5.2.8
 requests==2.31.0
 
